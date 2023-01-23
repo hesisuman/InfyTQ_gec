@@ -1,0 +1,14 @@
+InfyTQ training
+23/01/2023
+
+1. Introduction to Python
+2. Input:
+  -> Syntax for input of data
+  -> typecasting
+3. output:
+   -> Comma: to print the values outside the text to be printed and includes single space
+   -> Concatenation: similar to comma but no space is added in between
+   -> Formatting the output : String module, format and using floating (f) values
+   -> sep and end operations
+4. Operators:
+  Arithmetic, Relational, Assignment, Logical, Identity, Membership and Bitwise operators
